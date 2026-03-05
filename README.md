@@ -9,7 +9,7 @@ disease_description.txt: This file stores the description of diseases.
 
 sd_association.csv and snorna_disease_mat.csv: These file stores the association information between snoRNAs and disease. 
 
-hetero_graph_2-4.pkl(SDAD dataset): This file stores the features of snoRNA and disease which can be download from URL: https://github.com/BCB4PM/GL4SDA. 
+hetero_graph_2-4.pkl(SDAD dataset): This file stores the features of snoRNA and disease which also can be download from URL: https://github.com/BCB4PM/GL4SDA. 
 
 The PSnoD dataset is available at URLs:https://github.com/linDing-groups/PSnoD or https://github.com/mariamuna04/gbdtsvm. 
 
